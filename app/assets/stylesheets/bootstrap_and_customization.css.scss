@@ -1,4 +1,12 @@
-$body-bg:         #2c3e50;
-$navbar-default-bg: #7f8c8d;
+@import url(http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,200);
+
+$body-bg:         											#2c3e50;
+$font-family-sans-serif:								'Yanone Kaffeesatz';
+$navbar-default-bg: 										#7f8c8d;
 $navbar-default-link-color: white;
 @import 'bootstrap';
+
+.center {
+		text-align: center;
+}
+ 
